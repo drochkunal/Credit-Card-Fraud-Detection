@@ -28,3 +28,8 @@ A machine learning project for detecting fraudulent credit card transactions usi
 
 ## 👤 Author
 Kunal Droch
+
+
+NOTE : Dataset not included due to size. Download from Kaggle (Credit Card Fraud Detection).
+Sample dataset provided for demo.
+Link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud?utm_source=chatgpt.com
